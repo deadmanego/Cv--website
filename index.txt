@@ -1,0 +1,74 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mahesh Dwivedi - Curriculum Vitae</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Mahesh Dwivedi</h1>
+        <p>+91 9818287819 | dwivedimahesh00@gmail.com | Noida, Uttar Pradesh, India</p>
+    </header>
+
+    <section class="summary">
+        <h2>Summary</h2>
+        <p>As a Campus Ambassador at Teachnook, I focus on fostering technological curiosity among students at Amity University, where I am pursuing a BCA in Computer Science. I lead initiatives that promote innovative education in programming, data science, and web development. With certifications in Generative AI and Microsoft Copilot, I aim to cultivate a tech-savvy community while excelling academically in computer science.</p>
+    </section>
+
+    <section class="education">
+        <h2>Education</h2>
+        <ul>
+            <li><strong>Amity University, Noida</strong> - Bachelor of Computer Applications (August 2023 – Present)</li>
+            <li><strong>Kendriya Vidyalaya</strong> - High School (April 2020 – June 2021)</li>
+            <li><strong>Intermediate in Commerce/Informatics Practices</strong> (April 2022 – June 2023)</li>
+        </ul>
+    </section>
+
+    <section class="experience">
+        <h2>Experience</h2>
+        <h3>Teachnook (Teachscape Online Learning Services Private Limited)</h3>
+        <p><strong>Campus Ambassador</strong> (December 2024 – Present)</p>
+        <ul>
+            <li>Promoted Teachnook's technology programs among peers.</li>
+            <li>Organized campus activities to enhance awareness of programming, data science, and web development.</li>
+            <li>Guided students in exploring and enrolling in Teachnook's courses.</li>
+        </ul>
+        <h3>Coding Raja Technologies, Hyderabad</h3>
+        <p><strong>Intern</strong> (January 2024 – February 2024)</p>
+        <ul>
+            <li>Developed a To-Do List application using Python.</li>
+            <li>Enhanced Python skills and gained valuable experience in application development.</li>
+        </ul>
+    </section>
+
+    <section class="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Java</li>
+            <li>MySQL (Basic Working Knowledge)</li>
+            <li>HTML (Basic Working Knowledge)</li>
+            <li>Python (Basic Working Knowledge)</li>
+            <li>MS Excel / MS PowerPoint (Basic Working Knowledge)</li>
+            <li>Putty (Basic Working Knowledge)</li>
+            <li>German as a Foreign Language</li>
+        </ul>
+    </section>
+
+    <section class="certifications">
+        <h2>Certifications</h2>
+        <ul>
+            <li>Learning Microsoft 365 Copilot and Business Chat</li>
+            <li>What Is Generative AI?</li>
+            <li>Winning Strategies for the Smart India Hackathon</li>
+            <li>Leadership and Team Effectiveness (Certified by IIT/IISc via NPTEL)</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Mahesh Dwivedi</p>
+    </footer>
+
+</body>
+</html>
